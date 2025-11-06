@@ -4,6 +4,18 @@ A curated, community-driven list of awesome Model Context Protocol (MCP) servers
 
 ---
 
+## All Documents
+> Call for translators! [We're looking for translators](https://github.com/YuzeHao2023/Awesome-MCP-Servers/issues/1) to help translate this spec for everyone!
+
+**Read our documentation in the following languages:**
+
+| Language                | Link                                                                 |
+|-------------------------|---------------------------------------------------------------------|
+| English                 | [English](https://github.com/YuzeHao2023/Awesome-MCP-Servers/README.md)        |
+| 中文                    | [中文](https://github.com/YuzeHao2023/Awesome-MCP-Servers/README_zh_CN.md)      |
+
+---
+
 ## ⚠️ Security Warning
 
 When running MCP servers without proper sandboxing, they can execute arbitrary code on your system with the same permissions as the host process. This creates significant security risks.
