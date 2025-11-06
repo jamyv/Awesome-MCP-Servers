@@ -12,7 +12,8 @@
 | 語言     | 連結                                                                 |
 |----------|---------------------------------------------------------------------|
 | English  | [English](https://github.com/YuzeHao2023/Awesome-MCP-Servers?tab=readme-ov-file) |
-| 中文     | [中文](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_zh_CN.md) |
+| 简体中文  | [简体中文](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_zh_CN.md) |
+| 繁体中文  | [繁体中文](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_zh_TW.md) |
 
 ---
 
@@ -653,4 +654,4 @@ AI 與機器學習服務整合：
 - 檢視各伺服器倉庫以了解支援之傳輸方式（stdio、SSE、HTTP）、認證方式與範例用戶端。
 - 此生態系迅速演進，新伺服器、用戶端與框架經常加入；維護者請確保倉庫附有清楚的安裝與安全說明。
 
-```
+
